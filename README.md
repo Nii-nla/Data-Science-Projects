@@ -17,11 +17,6 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
     - **Technologies Used**: Pandas and Matplotlib
     - **Results**: Optimized pricing strategies, increasing revenue by 90% using machine learning models for demand elasticity.
 
-4.  [SQL PROJECT/ RFM Analysis](https://github.com/Nii-nla/PROJECTS/tree/master/SQL%20Project/RFM%20Analysis)
-     - **Description**: Analyzed customer purchase behavior using RFM analysis to segment customers based on engagement, loyalty, and value to the business
-     - **Technologies Used**: SQL
-     - **Results**: Improved customer retention strategies through targeted marketing efforts.
-
 5. [User Profiling Segmentation](https://github.com/Nii-nla/PROJECTS/tree/master/User%20Profiling%20and%20Segmentation)
     - **Description**: Created user profiles and segmented them into distinct groups using k-means clustering for targeted marketing.
     - **Technologies Used**: Python, Scikit-learn, K-means Clustering
